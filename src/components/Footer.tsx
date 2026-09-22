@@ -28,7 +28,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-600 text-xs font-body">
-            © 2026 GameHistory. Hecho con <Heart className="inline w-3 h-3 text-pink-500" /> para gamers.
+            © 2026 GameHistory. Hecho por Moises para gamers <Heart className="inline w-3 h-3 text-pink-500" />.
           </p>
           <div className="flex items-center gap-4 text-gray-500">
             <a href="#hero" className="hover:text-cyan-400 transition-colors text-sm font-body">
